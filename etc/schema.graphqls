@@ -1,0 +1,11 @@
+type Query {
+    getPokeData(product_id: Int!): PokeData
+        @resolver(class: "Matt\\Pokemon\\Model\\Resolver\\PokeDataResolver")
+        @doc(description: "Get PokeData.")
+}
+
+type PokeData {
+    name: String
+    img_url: String
+    message: String
+}
