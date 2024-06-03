@@ -7,7 +7,7 @@ Currently there is name and imgUrl(front_default) available.
 
 COMPOSER INSTALLATION
 Run composer command:
-$> composer require matt/module-matt-pokemon
+$> composer require variuss/module-matt-pokemon
 
 MANUAL INSTALLATION
 Extract files from an archive

@@ -1,5 +1,5 @@
 {
-    "name": "matt/module-matt-pokemon",
+    "name": "variuss/module-matt-pokemon",
     "description": "Pokemon API test module",
     "type": "magento2-module",
     "require": {
